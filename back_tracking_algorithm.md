@@ -1,0 +1,6 @@
+- [What is Backtracking?](https://www.geeksforgeeks.org/backtracking-algorithms/)
+- [Backtracking Algorithm in Data Structures](https://www.scaler.com/topics/data-structures/backtracking-algorithm/)
+- [Backtracking Algorithm](https://www.programiz.com/dsa/backtracking-algorithm)
+- [What is Backtracking?](https://www.interviewbit.com/courses/programming/backtracking/)
+- [Backtracking](https://www.javatpoint.com/backtracking-introduction)
+- [Backtracking Algorithms](https://www.baeldung.com/cs/backtracking-algorithms#:~:text=Backtracking%20is%20an%20algorithmic%20technique,satisfy%20them%20will%20be%20removed)
